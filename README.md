@@ -1,4 +1,4 @@
-### Hi there, I'm Hongru!👋
+# Hi there, I'm Hongru!👋
 
 <!--
 **AladdinPP/AladdinPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 ![Undergrad](https://img.shields.io/badge/Undergrad-RUC-AE0B2A)
 ![Certificate](https://img.shields.io/badge/Certificate-SeattleU-EF4135)
 - I am currently studying at Seattle University for the Computer Science Fundamental Certificate. I will pursue a Master's degree next year.
+
+## Languages
+
+![C++](https://img.shields.io/badge/-C%2B%2B-044F88?logo=cplusplus&labelColor=000000)
+![Java](https://img.shields.io/badge/-Java-F89820)
+![Python](https://img.shields.io/badge/-Python-4584B6?logo=python&labelColor=000000)
+![SQL](https://img.shields.io/badge/-SQL-000000?logo=mysql&labelColor=ffffff)

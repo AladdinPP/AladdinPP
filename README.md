@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-`#092635`
+`Undergrad|RUC` `Graduate|SeattleU`
 - I am currently studying at Seattle University for the Computer Science Fundamental Certificate. I will pursue a Master's degree next year.

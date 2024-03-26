@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Undergrad](https://img.shields.io/badge/Undergrad-RUC-AE0B2A)
 ![Certificate](https://img.shields.io/badge/Certificate-SeattleU-EF4135)
-- I am currently studying at Seattle University for the Computer Science Fundamental Certificate. I will pursue a Master's degree next year.
+- I am studying at Seattle University for the Computer Science Fundamental Certificate. I will continue as a MSCS student in 2024 Fall.
 
 ## Languages
 

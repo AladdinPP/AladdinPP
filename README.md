@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Certificate](https://img.shields.io/badge/Post%20Baccalaureate%20Certificate-UCLA-2774AE)
 ![Certificate](https://img.shields.io/badge/Graduate%20Certificate-SeattleU-EF4135)
 ![Master](https://img.shields.io/badge/Master%20of%20Science-SeattleU-EF4135)
-## Some Basic Info
+## Basic Info
 - Class of 24, the Computer Science Fundamental Certificate, Seattle University.
 - Class of 26, the Master of Science in Computer Science, Seattle University.
 - I have been working as a Graduate Teaching Assistant since March 2024. And here is the course list:

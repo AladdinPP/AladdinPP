@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/-C%23-blue%3Flogo%3Dsharp?style=flat&logo=sharp&logoColor=%2399CC00&labelColor=%23556472&color=%2305CE78)
 ![Python](https://img.shields.io/badge/-Python-4584B6?logo=python&labelColor=000000)
 ![SQL](https://img.shields.io/badge/-MySQL-000000?logo=mysql&labelColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-color%3Flogo%3Dsharp?style=flat&logo=JavaScript&logoColor=%23F7DF1E&labelColor=%23556472&color=%23C00000)

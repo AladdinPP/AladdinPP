@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 - Class of 24, the Computer Science Fundamental Certificate, Seattle University.
 - Class of 26, the Master of Science in Computer Science, Seattle University.
 - I have been working as a Graduate Teaching Assistant since March 2024. And here is the course list:
-  - Data Structure (CPSC5005)
+  - CPSC5005:  Data Structure
+  - CPSC5021:  Database
 
 ## Languages
 

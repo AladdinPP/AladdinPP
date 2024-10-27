@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-044F88?logo=cplusplus&labelColor=000000)
 ![Java](https://img.shields.io/badge/-Java-F89820)
-![C#](https://img.shields.io/badge/C%23-%23512BD4?logo=csharp&logoColor=%23fffffff&labelColor=%23000000)
+![C#](https://img.shields.io/badge/-C%23-blue%3Flogo%3Dsharp?style=flat&logo=sharp&logoColor=%2399CC00&labelColor=%23556472&color=%2305CE78)
 ![Python](https://img.shields.io/badge/-Python-4584B6?logo=python&labelColor=000000)
 ![SQL](https://img.shields.io/badge/-SQL-000000?logo=mysql&labelColor=ffffff)

@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-4584B6?logo=python&labelColor=000000)
 ![SQL](https://img.shields.io/badge/-MySQL-000000?logo=mysql&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-color%3Flogo%3Dsharp?style=flat&logo=JavaScript&logoColor=%23F7DF1E&labelColor=%23556472&color=%23C00000)
-
+  
 ## My Stats
 [![AladdinPP's GitHub stats](https://github-readme-stats.vercel.app/api?username=AladdinPP&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/AladdinPP/github-readme-stats)

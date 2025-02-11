@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ## Knowledge
 - Distributed System
 - Artificial Intelligence
-- Data Structure
 - Web Development
 
 ## Languages

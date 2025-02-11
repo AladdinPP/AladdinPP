@@ -24,6 +24,15 @@ Here are some ideas to get you started:
 - I have been working as a Graduate Teaching Assistant since March 2024. Here is the course list:
   - CPSC5005:  Data Structure
   - CPSC5021:  Database
+  - CPSC5042:  Computer Principle II
+  - CPSC5001:  Bootcamp I
+  - CPSC5002:  Bootcamp II
+
+## Knowledge
+- Distributed System
+- Artificial Intelligence
+- Data Structure
+- Web Development
 
 ## Languages
 

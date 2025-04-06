@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 - Class of 26, the Master of Science in Computer Science, Seattle University.
 - I have been working as a Graduate Teaching Assistant since March 2024. Here is the course list:
 
+  - $CPSC$ $5001$:  _Bootcamp I_
+  - $CPSC$ $5002$:  _Bootcamp II_
   - $CPSC$ $5005$:  _Data Structure_
   - $CPSC$ $5021$:  _Database_
   - $CPSC$ $5042$:  _Computer Principle II_
-  - $CPSC$ $5001$:  _Bootcamp I_
-  - $CPSC$ $5002$:  _Bootcamp II_
+  - $CPSC$ $5200$:  _Software Architecture & Design_
 
 ## Knowledge
 - Distributed System

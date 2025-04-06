@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 - Distributed System
 - Artificial Intelligence
 - Web Development
+- API Design and Integration
+- Testing and Debugging
+- SaaS
 
 ## Languages
 

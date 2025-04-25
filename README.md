@@ -31,12 +31,12 @@ Here are some ideas to get you started:
   - $CPSC$ $5200$:  _Software Architecture & Design_
 
 ## Knowledge
-- Distributed System
+- Distributed System (Python, pub/sub, blockchain)
 - Artificial Intelligence
-- Web Development
-- API Design and Integration
-- Testing and Debugging
-- SaaS
+- Web Development (ASP.NET, Node.js, RESTful, Docker, MongoDB)
+- API Design and Integration (RESTful, gRPC)
+- Testing and Debugging (XUnit)
+- SaaS (Node.js, MongoDB)
 
 ## Languages
 

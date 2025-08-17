@@ -20,7 +20,19 @@ Here are some ideas to get you started:
 ![Master](https://img.shields.io/badge/Master%20of%20Science-SeattleU-EF4135)
 ## Basic Info
 - Class of 24, the Computer Science Fundamental Certificate, Seattle University.
+  - $CPSC$ $5005$: _Data Structure (C++)_
+  - $CPSC$ $5011$: _Object-Oriented Concepts (C++, C#)_
+  - $CPSC$ $5021$: _Database Systems (MySQL)_
+  - $CPSC$ $5031$: _Algorithms (C++, Python, graph)_
+  - $CPSC$ $5041$: _Computer Systems Principles I (assembly)_
+  - $CPSC$ $5042$: _Computer Systems Principles II (C++, Python, multithreading, TCP/UDP, Pub/Sub)_
 - Class of 26, the Master of Science in Computer Science, Seattle University.
+  - $CPSC$ $5110$: _Fundamentals of Software Engineering (C#, ASP.NET, MVC, JavaScript, Agile, Git)_
+  - $CPSC$ $5200$: _Software Architecture and Design (REST, gRPC, GraphQL, microservices, pipeline)_
+  - $CPSC$ $5520$: _Distributed System (Python, Pub/Sub, DHT, Blockchain)_
+  - $CPSC$ $5610$: _Artificial Intelligence (Python)_
+  - $CPSC$ $5210$: _Software Testing and Debugging (XUnit, PIT test, Selenium, CI/CD)_
+  - $CPSC$ $5240$: _Software as a Service (TypeScript, ExpressServer, MongoDB, Angular, Mocha Test)_
 - I have been working as a Graduate Teaching Assistant since March 2024. Here is the course list:
 
   - $CPSC$ $5001$:  _Bootcamp I_

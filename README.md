@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   - $CPSC$ $5005$: _Data Structure (C++)_
   - $CPSC$ $5011$: _Object-Oriented Concepts (C++, C#)_
   - $CPSC$ $5021$: _Database Systems (MySQL)_
-  - $CPSC$ $5031$: _Algorithms (C++, Python, graph)_
+  - $CPSC$ $5031$: _Algorithms (C++, Python)_
   - $CPSC$ $5041$: _Computer Systems Principles I (assembly)_
   - $CPSC$ $5042$: _Computer Systems Principles II (C++, Python, multithreading, TCP/UDP, Pub/Sub)_
 - Class of 26, the Master of Science in Computer Science, Seattle University.

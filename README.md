@@ -40,9 +40,11 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-MySQL-000000?logo=mysql&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-color%3Flogo%3Dsharp?style=flat&logo=JavaScript&logoColor=%23F7DF1E&labelColor=%23556472&color=%23C00000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=TypeScript&labelColor=%23333333&color=%23E2B714)
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&labelColor=F8F4EC&color=8CE4FF)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?logo=supabase&labelColor=313647&color=F0E491)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?logo=dotnet&labelColor=8CA9FF&color=C9B59C)
+![React](https://img.shields.io/badge/-React-black?logo=react&labelColor=758A93&color=B0CE88)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AladdinPP&layout=compact&theme=tokyonight)
   

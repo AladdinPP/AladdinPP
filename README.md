@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - Testing and Debugging (XUnit)
 - SaaS (Node.js, MongoDB)
 
-## Languages
+## Languages & Tech Stacks
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-044F88?logo=cplusplus&labelColor=000000)
 ![Java](https://img.shields.io/badge/-Java-F89820)

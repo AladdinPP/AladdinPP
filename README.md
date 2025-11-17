@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-MySQL-000000?logo=mysql&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-color%3Flogo%3Dsharp?style=flat&logo=JavaScript&logoColor=%23F7DF1E&labelColor=%23556472&color=%23C00000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=TypeScript&labelColor=%23333333&color=%23E2B714)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&labelColor=F8F4EC&color=8CE4FF)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AladdinPP&layout=compact&theme=tokyonight)
   

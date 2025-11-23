@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Bachelor](https://img.shields.io/badge/Bachelor%20of%20Arts-RUC-AE0B2A)
-![Certificate](https://img.shields.io/badge/Post%20Baccalaureate%20Certificate-UCLA-2774AE)
-![Certificate](https://img.shields.io/badge/Graduate%20Certificate-SeattleU-EF4135)
-![Master](https://img.shields.io/badge/Master%20of%20Science-SeattleU-EF4135)
+![Bachelor](https://img.shields.io/badge/-RUC-AE0B2A?label=BA%2C%20Classics)
+![Certificate](https://img.shields.io/badge/-UCLA-2774AE?label=PBC%2C%20Classics)
+![Certificate](https://img.shields.io/badge/-SeattleU-EF4135?label=GC%2C%20CS)
+![Master](https://img.shields.io/badge/-SeattleU-EF4135?label=MS%2C%20CS)
 ## Basic Info
-- Class of 24, the Computer Science Fundamental Certificate, Seattle University.
-- Class of 26, the Master of Science in Computer Science, Seattle University.
+- Class of '24, the Computer Science Fundamental Certificate, Seattle University.
+- Class of '26, the Master of Science in Computer Science, Seattle University.
 - I have been working as a Graduate Teaching Assistant since March 2024.
+- I'm working at Prox Shopping as SE Intern since Oct. 2025.
 
 ## Knowledge
 - Distributed System (Python, pub/sub, blockchain)

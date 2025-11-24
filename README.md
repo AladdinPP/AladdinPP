@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 ## Basic Info
 - Class of '24, the Computer Science Fundamental Certificate, Seattle University.
 - Class of '26, the Master of Science in Computer Science, Seattle University.
-- I have been working as a Graduate Teaching Assistant since March 2024.
-- I'm working at Prox Shopping as SE Intern since Oct. 2025.
 
 ## Knowledge
 - Distributed System (Python, pub/sub, blockchain)

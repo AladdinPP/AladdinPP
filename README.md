@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - Web Development (ASP.NET, Node.js, RESTful, Docker, MongoDB)
 - API Design and Integration (RESTful, gRPC)
 - Testing and Debugging (XUnit)
-- SaaS (Node.js, MongoDB)
+- SaaS (Node.js, MongoDB, Azure)
 
 ## Languages & Tech Stacks
 

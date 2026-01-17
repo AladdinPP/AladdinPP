@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ## Knowledge
 - Distributed System (Python, pub/sub, blockchain)
 - Artificial Intelligence
+- Machine Learning (Supervised, Unsupervised)
+- SaaS (Node.js, MongoDB, Azure)
 - Web Development (ASP.NET, Node.js, RESTful, Docker, MongoDB)
 - API Design and Integration (RESTful, gRPC)
 - Testing and Debugging (XUnit)
-- SaaS (Node.js, MongoDB, Azure)
-- Machine Learning (Supervised, Unsupervised)
 
 ## Languages & Tech Stacks
 

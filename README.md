@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - API Design and Integration (RESTful, gRPC)
 - Testing and Debugging (XUnit)
 - SaaS (Node.js, MongoDB, Azure)
+- Machine Learning (Supervised, Unsupervised)
 
 ## Languages & Tech Stacks
 
